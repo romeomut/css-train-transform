@@ -2,6 +2,7 @@
   transform: rotate(0);
   transition: transform 1s linear;
 }
+
 .task1:hover {
   transform: rotate(270deg);
 }
